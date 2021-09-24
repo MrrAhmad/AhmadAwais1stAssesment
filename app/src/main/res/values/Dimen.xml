@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="Logosize"> 150dp</dimen>
+    <dimen name="logoMargin">220dp</dimen>
+    <dimen name="SplashText"> 25dp</dimen>
+    <dimen name="SplashMargin">5dp</dimen>
+    <dimen name="textsplash">35dp</dimen>
+    <dimen name="logo">100dp</dimen>
+    <dimen name="logologo">80dp</dimen>
+    <dimen name="twohun">200dp</dimen>
+    <dimen name="Twenty">20dp</dimen>
+    <dimen name="thirty">30dp</dimen>
+    <dimen name="thirtythree">33dp</dimen>
+    <dimen name="fiffive">55dp</dimen>
+    <dimen name="twelve">12dp</dimen>
+    <dimen name="fifteen">15dp</dimen>
+    <dimen name="onetwent">120dp</dimen>
+</resources>

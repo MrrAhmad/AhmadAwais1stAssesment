@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">AhmadAwais1stAssesment</string>
+    <string name="Splash">Welcome to</string>
+    <string name="Square">Square Space</string>
+    <string name="welcomeBack">Welcome Back</string>
+    <string name="AccountVerification">Account Verification</string>
+    <string name="PassRecovery">Verify email to get new password</string>
+    <string name="email">Email</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="submit">Submit</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="sign_up_to_contiue">Sign Up to contiue</string>
+    <string name="name">Name</string>
+    <string name="enter_your_full_name">Enter your full name</string>
+    <string name="enter_valid_email">Enter valid email</string>
+    <string name="password">Password</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="re_enter_password">Re-enter Password</string>
+    <string name="date_of_birth">Date of birth</string>
+    <string name="mm_dd_yy">mm/dd/yy</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sign_in_to_contiue">Sign In to contiue</string>
+    <string name="username">Username</string>
+    <string name="username_or_email">Username or Email</string>
+
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="log_in">Log in</string>
+    <string name="new_user">New User?</string>
+
+    <string name="dash_board">Dash Board</string>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/maintext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="@string/dash_board"
+        android:textSize="@dimen/fiffive"
+        android:textStyle="bold"
+        android:textColor="@color/Mycolor"
+
+        />
+    <TextView
+        android:id="@+id/getname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/maintext"
+        android:textSize="@dimen/Twenty"
+        android:layout_margin="@dimen/fifteen"
+
+        />
+    <TextView
+        android:id="@+id/getemail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/getname"
+        android:textSize="@dimen/Twenty"
+        android:layout_margin="@dimen/fifteen"
+
+        />
+    <TextView
+        android:id="@+id/getdob"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/getemail"
+        android:textSize="@dimen/Twenty"
+        android:layout_margin="@dimen/fifteen"
+
+        />
+
+</RelativeLayout>
