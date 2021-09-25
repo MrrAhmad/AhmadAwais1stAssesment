@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Zain Computer/AndroidStudioProjects/AhmadAwais1stAssesment/app/src/main/res/drawable/gradient_blue.xml" value="0.2203125" />
+        <entry key="..\:/Users/Zain Computer/AndroidStudioProjects/AhmadAwais1stAssesment/app/src/main/res/drawable/gradient_grey.xml" value="0.2203125" />
         <entry key="..\:/Users/Zain Computer/AndroidStudioProjects/AhmadAwais1stAssesment/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2064814814814815" />
         <entry key="..\:/Users/Zain Computer/AndroidStudioProjects/AhmadAwais1stAssesment/app/src/main/res/drawable/ic_squarespace.xml" value="0.20185185185185187" />
         <entry key="..\:/Users/Zain Computer/AndroidStudioProjects/AhmadAwais1stAssesment/app/src/main/res/drawable/ic_squarespace11.xml" value="0.2169230769230769" />
@@ -11,6 +13,7 @@
         <entry key="..\:/Users/Zain Computer/AndroidStudioProjects/AhmadAwais1stAssesment/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
         <entry key="..\:/Users/Zain Computer/AndroidStudioProjects/AhmadAwais1stAssesment/app/src/main/res/layout/activity_sign_up.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Zain Computer/AndroidStudioProjects/AhmadAwais1stAssesment/app/src/main/res/layout/activity_splash_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Zain Computer/AndroidStudioProjects/AhmadAwais1stAssesment/app/src/main/res/layout/layout.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
