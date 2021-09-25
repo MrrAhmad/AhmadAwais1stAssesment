@@ -65,7 +65,8 @@
         android:layout_marginLeft="@dimen/thirty"
         android:layout_marginTop="@dimen/fiffive"
         android:layout_marginRight="@dimen/thirty"
-        android:hint="@string/username_or_email" />
+        android:hint="@string/username_or_email"
+        />
 
     <TextView
         android:id="@+id/passlabel"
